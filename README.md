@@ -29,8 +29,8 @@
 
 <div align="center">
 
-[rentry](...)
-ㅤㅤ┊ㅤㅤ[tiktok](...)
-ㅤㅤ┊ㅤㅤ[twitter](...)
+[atabook](https://computertime.atabook.org/)
+ㅤㅤ┊ㅤㅤ[nekoweb](https://turntech.nekoweb.org/index.html)
+ㅤㅤ┊ㅤㅤ[roblox](https://www.roblox.com/users/4815958351/profile?friendshipSourceType=PlayerSearch)
 
 </div>
