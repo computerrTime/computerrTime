@@ -29,8 +29,8 @@
 
 <div align="center">
 
-[atabook](https://computertime.atabook.org/)
-ㅤㅤ┊ㅤㅤ[nekoweb](https://turntech.nekoweb.org/index.html)
-ㅤㅤ┊ㅤㅤ[roblox](https://www.roblox.com/users/4815958351/profile?friendshipSourceType=PlayerSearch)
+<a href="https://computertime.atabook.org/"><img src="https://img.shields.io/static/v1?logo=atabook&label=&message=atabook&color=e00707&style=flat" alt="atabook"></a> 
+ㅤㅤ┊ㅤㅤ<a href="https://turntech.nekoweb.org/index.html"><img src="https://img.shields.io/static/v1?logo=atabook&label=&message=nekoweb&color=e00707&style=flat" alt="nekoweb"></a>
+ㅤㅤ┊ㅤ<a href="https://www.roblox.com/users/4815958351/profile?friendshipSourceType=PlayerSearch"><img src="https://img.shields.io/static/v1?logo=atabook&label=&message=roblox&color=e00707&style=flat" alt="roblox"></a> 
 
 </div>
