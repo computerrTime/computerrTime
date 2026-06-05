@@ -7,7 +7,7 @@
 
 <br><br>
 
-test
+$\textcolor{#ff0001}{\textsf{hello its me dave strider}}$
 
 <br> <br>
 ••●━━━━━━●••
